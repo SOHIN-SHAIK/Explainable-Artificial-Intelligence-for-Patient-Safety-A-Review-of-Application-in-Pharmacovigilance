@@ -1,5 +1,4 @@
-# Explainable-Artificial-Intelligence-for-Patient-Safety-A-Review-of-Application-in-Pharmacovigilance
-Explores Explainable AI (XAI) methods enhancing patient safety by improving transparency in pharmacovigilance. Reviews XAI applications for detecting adverse drug reactions and supporting decision-making in drug safety monitoring.
+
 # Explainable Artificial Intelligence for Patient Safety: A Review of Applications in Pharmacovigilance
 
 This project explores the integration of **Explainable Artificial Intelligence (XAI)** into **pharmacovigilance** to enhance patient safety. It reviews XAI techniques applied to detect, predict, and explain **adverse drug reactions (ADRs)**, supporting transparent and accountable decision-making in drug safety monitoring.
