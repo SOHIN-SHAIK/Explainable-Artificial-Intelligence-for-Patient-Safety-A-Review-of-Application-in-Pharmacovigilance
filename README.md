@@ -42,6 +42,7 @@ This project investigates the integration of Explainable Artificial Intelligence
 ---
 
 ### 📁 Project Structure  
+```
 XAI-Pharmacovigilance/
 ├── data/           # Datasets and raw data files
 ├── notebooks/      # Jupyter notebooks for experimentation
@@ -49,6 +50,7 @@ XAI-Pharmacovigilance/
 ├── visualizations/ # Graphs and explanation plots
 ├── README.md       # Project documentation
 └── requirements.txt # Python dependencies list
+```
 
 
 ---
